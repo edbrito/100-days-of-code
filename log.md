@@ -18,3 +18,15 @@
 https://www.freecodecamp.org/edbrito
 
 **Thoughts:** The frontend stuff is kind of trivial but some details are quite interesting. I've been doing backend for about two years but always in Java; doing stuff with Node is being fun.
+
+### Day 3: 2018/04/27
+
+**Today's Progress**: Dedicated all of my time to the backend certification project. Finished some of the programming tasks for Node.
+
+**Thoughts:** Node seems like great fun!
+
+### Day 4: 2018/04/28
+
+**Today's Progress**: Finished all the frontend certification part until the first project. Starting the ''tribute page'' project.
+
+**Thoughts:** I think part of the difficulty is deciding on what to do the page. I have an idea, let's see how this pans out.
