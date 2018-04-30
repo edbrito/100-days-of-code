@@ -1,32 +1,45 @@
 # 100 Days Of Code - Log
 
-### Day 0: 2018/04/24
+### Day 1: 2018/04/24
 
 **Today's Progress**: Decided to start the 100 days of code challenge. As suggested, I started messing around with Free Code Camp.
 
 **Thoughts:** Done 45 "challenges". I'll finish the free code camp and then figure if I go to React, Node or Go.
 
-### Day 1: 2018/04/25
+### Day 2: 2018/04/25
 
 **Today's Progress**: Continued on Free Code Camp. Also started the Backend Development Certification. This is my freecodecamp link: https://www.freecodecamp.org/edbrito
 
 **Thoughts:** Ok, so by default Free Code Camp starts at the Frontend Development Certification. I decided to do 30 minutes of frontend and 30 minutes of backend each day. I'm already a SW Developer with some experience on both areas but I wish to improve upon them. I know that 100 days of code is dedicated to projects but I will start with the basics first and then start the challenges there.
 
-### Day 2: 2018/04/26
+### Day 3: 2018/04/26
 
 **Today's Progress**: Advancing on the frontend and backend development certification
 https://www.freecodecamp.org/edbrito
 
 **Thoughts:** The frontend stuff is kind of trivial but some details are quite interesting. I've been doing backend for about two years but always in Java; doing stuff with Node is being fun.
 
-### Day 3: 2018/04/27
+### Day 4: 2018/04/27
 
 **Today's Progress**: Dedicated all of my time to the backend certification project. Finished some of the programming tasks for Node.
 
 **Thoughts:** Node seems like great fun!
 
-### Day 4: 2018/04/28
+### Day 5: 2018/04/28
 
 **Today's Progress**: Finished all the frontend certification part until the first project. Starting the ''tribute page'' project.
 
 **Thoughts:** I think part of the difficulty is deciding on what to do the page. I have an idea, let's see how this pans out.
+
+### Day 6: 2018/04/29
+
+**Today's Progress**: Doing the "tribute" page for the Frontend certification of freeCodeCamp. Trying make it simple but still pretty. Hope to finish it tomorrow.
+
+**Thoughts:** Not only do I need to think about the layout but also about the content. I have to collect some info.
+
+### Day 7: 2018/04/30
+
+**Today's Progress**: I was spending too much time on trying to collect info for the page insted of doing the tribute page. I'll consider the tribute page finished for and move to the next project.
+https://a2ac41fc19fe4345a8fcde01e684dc64.production.codepen.codes/
+
+**Thoughts:** I was spending too much time not doing real code. I think the next project will be better for coding.
