@@ -43,3 +43,9 @@ https://www.freecodecamp.org/edbrito
 https://a2ac41fc19fe4345a8fcde01e684dc64.production.codepen.codes/
 
 **Thoughts:** I was spending too much time not doing real code. I think the next project will be better for coding.
+
+### Day 8: 2018/05/02
+
+**Today's Progress**: Moving on to the second "Basic Frontend Project", my portfolio page.
+
+**Thoughts:** I don't have to think a lot about what to write in this webpage but I need to focus a little on the presentation. Not really a designer but a coder at heart so this is sometimes a little challenging.
