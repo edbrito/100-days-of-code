@@ -49,3 +49,9 @@ https://a2ac41fc19fe4345a8fcde01e684dc64.production.codepen.codes/
 **Today's Progress**: Moving on to the second "Basic Frontend Project", my portfolio page.
 
 **Thoughts:** I don't have to think a lot about what to write in this webpage but I need to focus a little on the presentation. Not really a designer but a coder at heart so this is sometimes a little challenging.
+
+### Day 9: 2018/05/03
+
+**Today's Progress**: I think the "Personal Portfolio" frontend project is going ok; now it's more of a matter of adding content to it. I restarted doing the backend certification. Yup, Node is fun.
+
+**Thoughts:** I think the backend part is going to be the best for me. Of course I need to improve my frontend skills, for professional reasons, but it's not the thing I like the most, that's for sure.
