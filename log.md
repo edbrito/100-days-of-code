@@ -55,3 +55,9 @@ https://a2ac41fc19fe4345a8fcde01e684dc64.production.codepen.codes/
 **Today's Progress**: I think the "Personal Portfolio" frontend project is going ok; now it's more of a matter of adding content to it. I restarted doing the backend certification. Yup, Node is fun.
 
 **Thoughts:** I think the backend part is going to be the best for me. Of course I need to improve my frontend skills, for professional reasons, but it's not the thing I like the most, that's for sure.
+
+### Day 10: 2018/05/04
+
+**Today's Progress**: Finished the Node.js and Express part of the Backend Certification! Next up is Git. Clarification: I already work with Git and with all the stuff from the Frontend Certification used until now but I want to improve those skills.
+
+**Thoughts:** After working two years with Java, JAX-RS and Tomcat, working with something like Node and Express is like a breeze of fresh air. Wish I can use it for work in the future.
