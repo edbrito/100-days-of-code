@@ -61,3 +61,9 @@ https://a2ac41fc19fe4345a8fcde01e684dc64.production.codepen.codes/
 **Today's Progress**: Finished the Node.js and Express part of the Backend Certification! Next up is Git. Clarification: I already work with Git and with all the stuff from the Frontend Certification used until now but I want to improve those skills.
 
 **Thoughts:** After working two years with Java, JAX-RS and Tomcat, working with something like Node and Express is like a breeze of fresh air. Wish I can use it for work in the future.
+
+### Day 11: 2018/05/06
+
+**Today's Progress**: Restarted the frontend certification on fcc. I decided to submit the portfolio page; it was just a matter of content. The javascript part is mostly boring and nothing new. I have to endure it to get to the fun parts.
+
+**Thoughts:** I think tomorrow I can finish the javascript part with the basics and then I should work a little on the backend certification part with Git. Also probably nothing new but if I'm going to learn everything from scratch and solidify my knowledge then I should do it with everything.
