@@ -67,3 +67,9 @@ https://a2ac41fc19fe4345a8fcde01e684dc64.production.codepen.codes/
 **Today's Progress**: Restarted the frontend certification on fcc. I decided to submit the portfolio page; it was just a matter of content. The javascript part is mostly boring and nothing new. I have to endure it to get to the fun parts.
 
 **Thoughts:** I think tomorrow I can finish the javascript part with the basics and then I should work a little on the backend certification part with Git. Also probably nothing new but if I'm going to learn everything from scratch and solidify my knowledge then I should do it with everything.
+
+### Day 12: 2018/05/07
+
+**Today's Progress**: Started and finished the Git part of the backend certification. Getting ready for MongoDB. That should be nice. Also finished the Basic Javascript part of the frontend cert and started the OO and FP part of the cert.
+
+**Thoughts:** I have used NoSQL databases before but never MongoDB. So, after this I will have some Node, Express and MongoDB knowledge. I hope that at the end of the 100 days I know more about React so that I have the full MERN stack under control. Let's see how long it takes to finish every part of the fcc certifications.
