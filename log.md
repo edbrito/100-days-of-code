@@ -73,3 +73,9 @@ https://a2ac41fc19fe4345a8fcde01e684dc64.production.codepen.codes/
 **Today's Progress**: Started and finished the Git part of the backend certification. Getting ready for MongoDB. That should be nice. Also finished the Basic Javascript part of the frontend cert and started the OO and FP part of the cert.
 
 **Thoughts:** I have used NoSQL databases before but never MongoDB. So, after this I will have some Node, Express and MongoDB knowledge. I hope that at the end of the 100 days I know more about React so that I have the full MERN stack under control. Let's see how long it takes to finish every part of the fcc certifications.
+
+### Day 13: 2018/05/08
+
+**Today's Progress**: Finished the OOP part of fcc frontend. Doing the Basic Algorithm scripting part.
+
+**Thoughts:** A friend died today.
