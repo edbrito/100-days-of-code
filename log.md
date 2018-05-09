@@ -79,3 +79,9 @@ https://a2ac41fc19fe4345a8fcde01e684dc64.production.codepen.codes/
 **Today's Progress**: Finished the OOP part of fcc frontend. Doing the Basic Algorithm scripting part.
 
 **Thoughts:** A friend died today.
+
+### Day 13: 2018/05/08
+
+**Today's Progress**: Finished the Basic Algorithm scripting and the JSON APIs and Ajax. Now it's time for frontend projects.
+
+**Thoughts:** Death is a senseless construction.
