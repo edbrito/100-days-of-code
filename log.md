@@ -80,7 +80,7 @@ https://a2ac41fc19fe4345a8fcde01e684dc64.production.codepen.codes/
 
 **Thoughts:** A friend died today.
 
-### Day 13: 2018/05/08
+### Day 14: 2018/05/09
 
 **Today's Progress**: Finished the Basic Algorithm scripting and the JSON APIs and Ajax. Now it's time for frontend projects.
 
