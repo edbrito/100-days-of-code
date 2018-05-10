@@ -85,3 +85,10 @@ https://a2ac41fc19fe4345a8fcde01e684dc64.production.codepen.codes/
 **Today's Progress**: Finished the Basic Algorithm scripting and the JSON APIs and Ajax. Now it's time for frontend projects.
 
 **Thoughts:** Death is a senseless construction.
+
+### Day 15: 2018/05/10
+
+ **Today's Progress**: Finished the Random Quote Machine frontend project. Have a look at it here:
+https://codepen.io/edbrito/full/JvpqWa/
+
+**Thoughts:** It took longer to find the API than to do the project itself.
