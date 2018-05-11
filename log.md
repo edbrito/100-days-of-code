@@ -92,3 +92,9 @@ https://a2ac41fc19fe4345a8fcde01e684dc64.production.codepen.codes/
 https://codepen.io/edbrito/full/JvpqWa/
 
 **Thoughts:** It took longer to find the API than to do the project itself.
+
+### Day 16: 2018/05/11
+
+ **Today's Progress**: Started and finished the Local Weather report ( https://codepen.io/edbrito/full/qYYmNp/ ) and the Timestamp Microservice ( https://fcc-timestam.glitch.me/ ).
+
+**Thoughts:** These were nice. I liked these.
